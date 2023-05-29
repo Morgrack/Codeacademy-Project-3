@@ -1,0 +1,46 @@
+.container {
+    border: 2px solid grey;
+    padding: 10px;
+    margin: 20px auto;
+    width: 80%;
+    min-width: 900px;
+}
+
+#pageheading {
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+.colourthemes {
+    padding: 0px;
+}
+
+.colourthemes li {
+    display: inline;
+    margin: 50px;
+}
+
+#coolblue {
+    margin-left: 0;
+    background-color: #2d5dcc;
+}
+
+#pink {
+    background-color: #d957d9;
+}
+
+#mintgreen {
+    background-color: #4fe0b0;
+}
+
+.arial {
+    font-family: Arial;
+}
+
+.anton {
+    font-family: Anton;
+}
+
